@@ -180,4 +180,3 @@ function MooresLawGraph() {
     </div>
   )
 }
-

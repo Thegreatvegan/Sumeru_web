@@ -89,4 +89,3 @@ export default function ChipAnimation() {
 
   return <canvas ref={canvasRef} className="w-full h-full" />
 }
-

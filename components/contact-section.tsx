@@ -119,7 +119,9 @@ export default function ContactSection() {
                 era.
               </p>
               <Link
-                href="#contact-form"
+                href="https://calendly.com/vedantsagare"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center bg-white/10 hover:bg-white/20 border border-white/20 px-6 py-3 rounded-full transition-all duration-300"
               >
                 <span className="mr-2">Schedule a conversation</span>
@@ -140,4 +142,3 @@ export default function ContactSection() {
     </section>
   )
 }
-
