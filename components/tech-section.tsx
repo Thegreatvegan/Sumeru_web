@@ -244,3 +244,4 @@ function TechVisual({ id }: { id: string }) {
       return null
   }
 }
+
